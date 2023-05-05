@@ -139,6 +139,7 @@ cc_defaults {
     defaults: [
         "hidl-module-defaults",
         "libhidl-defaults",
+        "uses_legacy_gbnconstructormap",
         "libhwbinder-impl-shared-libs",
     ],
 
