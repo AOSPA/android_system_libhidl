@@ -16,6 +16,24 @@
       "message": "just patch the blob from now on",
       "revId": "9594f8e59d452c4aa060616785d93c5f0c80c5ee",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f09ca149_9cdb754d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000656
+      },
+      "writtenOn": "2023-10-16T12:49:28Z",
+      "side": 1,
+      "message": "You can load a shim but not patch the new fun len is longer than the old one which wont work.",
+      "parentUuid": "8942deff_a1775ee4",
+      "revId": "9594f8e59d452c4aa060616785d93c5f0c80c5ee",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
